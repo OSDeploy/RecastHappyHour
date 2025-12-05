@@ -24,7 +24,7 @@
     PowerShellVersion = '5.1'
 
     # Functions to export from this module
-    FunctionsToExport = @('Get-HappyHourInfo', 'New-HappyHourEvent', 'Show-HappyHourMenu')
+    FunctionsToExport = @('Get-HappyHourInfo', 'New-HappyHourEvent', 'Show-HappyHourMenu', 'Get-ComputerSerialNumber')
 
     # Cmdlets to export from this module
     CmdletsToExport = @()
